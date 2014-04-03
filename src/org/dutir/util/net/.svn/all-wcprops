@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/net
+END
+HttpClientUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/net/HttpClientUtils.java
+END
+CharSetPostMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/net/CharSetPostMethod.java
+END
+LocaleComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/net/LocaleComparator.java
+END
+HtmlFormSelect.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/net/HtmlFormSelect.java
+END
+PropertySetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/net/PropertySetter.java
+END
+HttpDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/net/HttpDocument.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/tokenizer
+END
+ChineseTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/tokenizer/ChineseTokenizerFactory.java
+END
+SingleCharTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/tokenizer/SingleCharTokenizerFactory.java
+END
+StatisticalTokenizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/tokenizer/StatisticalTokenizerFactory.java
+END
+CharTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/lablucene/!svn/ver/122/Untility/src/org/dutir/tokenizer/CharTokenizer.java
+END
+ChineseTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/tokenizer/ChineseTokenizer.java
+END
+SpellCheckerTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/tokenizer/SpellCheckerTrainer.java
+END
+SingleCharTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/tokenizer/SingleCharTokenizer.java
+END
+ETokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/tokenizer/ETokenizer.java
+END

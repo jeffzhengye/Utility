@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/compress
+END
+BitInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/compress/BitInputStream.java
+END
+BitUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/compress/BitUtilities.java
+END
+BitOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/compress/BitOutputStream.java
+END

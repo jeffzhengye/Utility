@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lablucene/!svn/ver/49/Untility/src/org/dutir/util
+END
+ThreadPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/ThreadPool.java
+END
+Arrays.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/Arrays.java
+END
+XMLConfigure.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/XMLConfigure.java
+END
+ObjectToDoubleMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/ObjectToDoubleMap.java
+END
+Files.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/lablucene/!svn/ver/49/Untility/src/org/dutir/util/Files.java
+END
+Proximity.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/Proximity.java
+END
+ScoredObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/ScoredObject.java
+END
+Digester.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/Digester.java
+END
+ObjectToCounterMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/ObjectToCounterMap.java
+END
+Compilable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/Compilable.java
+END
+FibonacciHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/FibonacciHeap.java
+END
+Iterators.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/Iterators.java
+END
+HttpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/lablucene/!svn/ver/119/Untility/src/org/dutir/util/HttpUtil.java
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/Counter.java
+END
+Scored.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/Scored.java
+END
+HardFastCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/HardFastCache.java
+END
+FastCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/FastCache.java
+END
+ObjectToSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/ObjectToSet.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/Filter.java
+END
+PriorityQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/PriorityQueue.java
+END
+NBestSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/NBestSet.java
+END
+NumConversions.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/NumConversions.java
+END
+Strings.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/Strings.java
+END
+GZIPUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/GZIPUtils.java
+END
+AbstractExternalizable.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/AbstractExternalizable.java
+END
+WordlistLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/WordlistLoader.java
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/XML.java
+END
+ObjectSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/ObjectSerializer.java
+END
+CharOper.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/CharOper.java
+END
+LogFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/LogFormatter.java
+END
+JsonUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/lablucene/!svn/ver/119/Untility/src/org/dutir/util/JsonUtil.java
+END
+Collections.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/Collections.java
+END
+Streams.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/Streams.java
+END
+Normalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/lablucene/!svn/ver/49/Untility/src/org/dutir/util/Normalizer.java
+END
+FeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/FeatureExtractor.java
+END
+MinMaxHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/MinMaxHeap.java
+END
+Math.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/Math.java
+END
+Distance.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/Distance.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/Pair.java
+END
+RegPatterns.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/util/RegPatterns.java
+END

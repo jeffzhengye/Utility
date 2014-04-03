@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline
+END
+MedlineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/MedlineParser.java
+END
+NameId.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/NameId.java
+END
+MedlineChars.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/MedlineChars.java
+END
+DataBankList.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/DataBankList.java
+END
+DataBank.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/DataBank.java
+END
+MeshHeading.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/MeshHeading.java
+END
+Topic.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/Topic.java
+END
+Investigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/Investigator.java
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/Name.java
+END
+ArticleDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/ArticleDate.java
+END
+Article.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/Article.java
+END
+JournalIssue.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/JournalIssue.java
+END
+PubDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/PubDate.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/package-info.java
+END
+JournalInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/JournalInfo.java
+END
+nlmmedlinecitationset_100101.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/nlmmedlinecitationset_100101.dtd
+END
+ELocationId.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/ELocationId.java
+END
+CommentOrCorrection.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/CommentOrCorrection.java
+END
+OtherID.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/OtherID.java
+END
+AuthorList.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/AuthorList.java
+END
+Author.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/Author.java
+END
+Abstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/Abstract.java
+END
+GeneralNote.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/GeneralNote.java
+END
+PersonalNameSubject.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/PersonalNameSubject.java
+END
+Chemical.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/Chemical.java
+END
+OtherAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/OtherAbstract.java
+END
+GrantList.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/GrantList.java
+END
+MedlineCitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/MedlineCitation.java
+END
+Journal.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/Journal.java
+END
+MedlineHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/MedlineHandler.java
+END
+Grant.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/Grant.java
+END
+KeywordList.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/KeywordList.java
+END
+MedlineCitationSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/medline/MedlineCitationSet.java
+END

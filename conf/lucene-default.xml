@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="nutch-conf.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<luceneindex-conf>
+
+
+<!-- indexing parameter. -->
+<property>
+  <name>Full.Parser.ClassName</name>
+  <value>IRLab_DUT.dutbio.Parser.TrecParser</value>
+  <description>default file parser class name which is used to Parser file into lucene Documents</description>
+</property>
+
+<property>
+  <name>analyzerClassName</name>
+  <value>org.apache.lucene.analysis.standard.StandardAnalyzer</value>
+  <description>default file parser class name which is used to Parser file into lucene Documents</description>
+</property>
+
+
+<property>
+  <name>index.dir</name>
+  <value>D:\trec_exp\indexes\trec_index</value>
+  <description>
+  where to store the index
+  </description>
+</property>
+
+<property>
+  <name>create</name>
+  <value>true</value>
+  <description>
+  if true ,create a new index,else append new corpus to the existing index
+  </description>
+</property>
+
+<property>
+  <name>indexer.max.title.length</name>
+  <value>100</value>
+  <description>The maximum number of characters of a title that are indexed.
+  </description>
+</property>
+
+<property>
+  <name>indexer.max.tokens</name>
+  <value>10000</value>
+  <description>
+  The maximum number of tokens that will be indexed for a single field
+  in a document. This limits the amount of memory required for
+  indexing, so that collections with very large files will not crash
+  the indexing process by running out of memory.
+
+  Note that this effectively truncates large documents, excluding
+  from the index tokens that occur further in the document. If you
+  know your source documents are large, be sure to set this value
+  high enough to accomodate the expected size. If you set it to
+  Integer.MAX_VALUE, then the only limit is your memory, but you
+  should anticipate an OutOfMemoryError.
+  </description>
+</property>
+
+<property>
+  <name>indexer.mergeFactor</name>
+  <value>10000</value>
+  <description>The factor that determines the frequency of Lucene segment
+  merges. This must not be less than 2, higher values increase indexing
+  speed but lead to increased RAM usage, and increase the number of
+  open file handles (which may lead to "Too many open files" errors).
+  NOTE: the "segments" here have nothing to do with Nutch segments, they
+  are a low-level data unit used by Lucene.
+  </description>
+</property>
+
+<property>
+  <name>indexer.minMergeDocs</name>
+  <value>10000</value>
+  <description>This number determines the minimum number of Lucene
+  Documents buffered in memory between Lucene segment merges. Larger
+  values increase indexing speed and increase RAM usage.
+  </description>
+</property>
+
+<property>
+  <name>indexer.maxMergeDocs</name>
+  <value>2147483647</value>
+  <description>This number determines the maximum number of Lucene
+  Documents to be merged into a new Lucene segment. Larger values
+  increase indexing speed and reduce the number of Lucene segments,
+  which reduces the number of open file handles; however, this also
+  increases RAM usage during indexing.
+  </description>
+</property>
+
+<property>
+  <name>indexer.termIndexInterval</name>
+  <value>128</value>
+  <description>Determines the fraction of terms which Lucene keeps in
+  RAM when searching, to facilitate random-access.  Smaller values use
+  more memory but make searches somewhat faster.  Larger values use
+  less memory but make searches somewhat slower.
+  </description>
+</property>
+
+
+<!-- searching  parameter. -->
+<property>
+  <name>corpus.dir</name>
+  <value>D:\ir</value>
+  <description>
+  </description>
+</property>
+
+<property>
+  <name>field_weight</name>
+  <value>passage:1||title:2</value>
+  <description>
+  </description>
+</property>
+
+<property>
+  <name>search.interative</name>
+  <value>true</value>
+  <description>
+  </description>
+</property>
+
+</luceneindex-conf>

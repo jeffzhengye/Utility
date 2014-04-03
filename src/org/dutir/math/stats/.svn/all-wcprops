@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats
+END
+ZipfDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/ZipfDistribution.java
+END
+AnnealingSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/AnnealingSchedule.java
+END
+LogisticRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/LogisticRegression.java
+END
+MultivariateConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/MultivariateConstant.java
+END
+PoissonEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/PoissonEstimator.java
+END
+BernoulliEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/BernoulliEstimator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/package-info.java
+END
+OnlineNormalEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/OnlineNormalEstimator.java
+END
+AbstractDiscreteDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/AbstractDiscreteDistribution.java
+END
+PoissonDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/PoissonDistribution.java
+END
+MultinomialDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/MultinomialDistribution.java
+END
+BinomialDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/BinomialDistribution.java
+END
+Statistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/Statistics.java
+END
+BernoulliDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/BernoulliDistribution.java
+END
+RegressionPrior.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/RegressionPrior.java
+END
+MultivariateEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/MultivariateEstimator.java
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/Model.java
+END
+DiscreteDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/DiscreteDistribution.java
+END
+PoissonConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/PoissonConstant.java
+END
+BernoulliConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/BernoulliConstant.java
+END
+MultivariateDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/stats/MultivariateDistribution.java
+END

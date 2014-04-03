@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/lablucene/!svn/ver/44/Untility/ChineseSegment/org/dutir/chinesesegment
+END
+BiSegGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/lablucene/!svn/ver/44/Untility/ChineseSegment/org/dutir/chinesesegment/BiSegGraph.java
+END
+SegTokenPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/lablucene/!svn/ver/44/Untility/ChineseSegment/org/dutir/chinesesegment/SegTokenPair.java
+END
+WordType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lablucene/!svn/ver/44/Untility/ChineseSegment/org/dutir/chinesesegment/WordType.java
+END
+CharType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lablucene/!svn/ver/44/Untility/ChineseSegment/org/dutir/chinesesegment/CharType.java
+END
+SegToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lablucene/!svn/ver/44/Untility/ChineseSegment/org/dutir/chinesesegment/SegToken.java
+END
+DictionaryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/lablucene/!svn/ver/44/Untility/ChineseSegment/org/dutir/chinesesegment/DictionaryManager.java
+END
+SegGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lablucene/!svn/ver/44/Untility/ChineseSegment/org/dutir/chinesesegment/SegGraph.java
+END
+PathNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/lablucene/!svn/ver/44/Untility/ChineseSegment/org/dutir/chinesesegment/PathNode.java
+END
+HHMMSegmenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/lablucene/!svn/ver/44/Untility/ChineseSegment/org/dutir/chinesesegment/HHMMSegmenter.java
+END
+Utility.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/lablucene/!svn/ver/44/Untility/ChineseSegment/org/dutir/chinesesegment/Utility.java
+END
+SegTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/lablucene/!svn/ver/44/Untility/ChineseSegment/org/dutir/chinesesegment/SegTokenFilter.java
+END
+WordSegmenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/lablucene/!svn/ver/44/Untility/ChineseSegment/org/dutir/chinesesegment/WordSegmenter.java
+END
+AnalyzerProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/lablucene/!svn/ver/44/Untility/ChineseSegment/org/dutir/chinesesegment/AnalyzerProfile.java
+END

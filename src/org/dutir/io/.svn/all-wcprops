@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/io
+END
+FileExtensionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/io/FileExtensionFilter.java
+END
+Reporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/io/Reporter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/io/package-info.java
+END
+Reporters.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/io/Reporters.java
+END
+FileNameFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/io/FileNameFilter.java
+END
+LogLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/io/LogLevel.java
+END
+FileLineReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/io/FileLineReader.java
+END
+PrintWriterReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/io/PrintWriterReporter.java
+END
+BitInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/io/BitInput.java
+END
+BitOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/io/BitOutput.java
+END

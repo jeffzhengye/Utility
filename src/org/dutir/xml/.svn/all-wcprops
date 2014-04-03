@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml
+END
+SAXWriterFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/SAXWriterFilter.java
+END
+SAXFilterHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/SAXFilterHandler.java
+END
+RemoveElementsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/RemoveElementsFilter.java
+END
+SimpleElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/SimpleElementHandler.java
+END
+DelegatingHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/DelegatingHandler.java
+END
+GroupCharactersFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/GroupCharactersFilter.java
+END
+WellFormedFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/WellFormedFilter.java
+END
+DelegateHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/DelegateHandler.java
+END
+CompositeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/CompositeFilter.java
+END
+TextAccumulatorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/TextAccumulatorHandler.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/package-info.java
+END
+TextContentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/TextContentFilter.java
+END
+ElementStackFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/ElementStackFilter.java
+END
+SAXWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/SAXWriter.java
+END
+XHtmlWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/xml/XHtmlWriter.java
+END

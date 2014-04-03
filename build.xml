@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+
+<project name="DUTLIB" default="compile" basedir=".">
+
+	<property name="version"
+            value="DUTLIB"/>
+
+	<path id="classpath.test">
+		<path path="build"/>
+		<pathelement location="lib/junit-3.8.1.jar"/>
+		<pathelement location="lib/bekeleydb4.5.20.jar"/>
+		<pathelement location="lib/commons-lang-2.4.jar"/>
+		<pathelement location="lib/mysql-connector-java-3.1.14-bin.jar"/>
+		<pathelement location="lib/xerces-2_6_2-apis.jar"/>
+		<pathelement location="lib/bzip2.jar"/>
+		<pathelement location="lib/log4j-1.2.9.jar"/>
+		<pathelement location="lib/commons-httpclient-3.1.jar"/>
+		<pathelement location="lib/xerces-2_6_2.jar"/>
+		<pathelement location="lib/nekohtml-0.9.4.jar"/>
+		<pathelement location="lib/lingpipe-3.8.0.jar"/>
+		<pathelement location="lib/tar.jar"/>
+		<pathelement location="../lucene2.4/lib/LabLucene1.0.jar"/>
+		<pathelement location="lib/trove-2.0.2.jar"/>
+
+		
+	</path>
+
+	<target name="debug-compile"
+                  description="Compiles DUTLIB's classes to build">
+                <mkdir dir="build/"/>
+                <javac optimize="on"
+		   failonerror="false"
+                   debug="on"
+                   debuglevel="source,lines,vars"
+                   destdir="build/">
+			<classpath refid="classpath.test"/>
+                        <src path="src"/>
+			<src path="ChineseSegment"/>
+                        <include name="**"/>
+                        <exclude name="noclass/"/>
+			<exclude name="sample/**"/>
+                </javac>
+        </target>
+
+	<target name="compile"
+	          description="Compiles DUTLIB's classes to build">
+		<mkdir dir="build/"/>
+		<javac optimize="on"
+		   failonerror="false"
+	           debug="off"
+	           destdir="build/">
+		   	<classpath refid="classpath.test"/>
+			<src path="src"/>
+			<src path="ChineseSegment"/>
+			<exclude name="sample/**"/>
+			<include name="**"/>
+			<exclude name="noclass/"/>
+		</javac>
+	</target>
+
+	<target name="jar"
+	        description="Compile, then create jar =${version}.jar">
+		<jar destfile="../LabLucene/lib/${version}.jar">
+			<fileset dir="build/"
+	               includes="**/*.class,**/*.dtd"/>
+		</jar>
+	</target>
+	
+</project>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/corpus
+END
+DiskCorpus.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/corpus/DiskCorpus.java
+END
+Corpus.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/corpus/Corpus.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/corpus/Parser.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/corpus/Handler.java
+END
+InputSourceParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/corpus/InputSourceParser.java
+END
+XMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/corpus/XMLParser.java
+END
+LineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/corpus/LineParser.java
+END
+ObjectHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/corpus/ObjectHandler.java
+END

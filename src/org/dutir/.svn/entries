@@ -1,0 +1,67 @@
+10
+
+dir
+114
+https://subversion.assembla.com/svn/lablucene/Untility/src/org/dutir
+https://subversion.assembla.com/svn/lablucene
+
+
+
+2012-07-11T10:17:24.561369Z
+49
+yezheng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2a3a277d-17c0-4d9d-b03b-8da6b7eb955f
+
+db
+dir
+
+io
+dir
+
+math
+dir
+
+nlp
+dir
+
+tokenizer
+dir
+
+corpus
+dir
+
+parser
+dir
+
+classify
+dir
+
+tool
+dir
+
+util
+dir
+
+web
+dir
+
+document
+dir
+
+xml
+dir
+

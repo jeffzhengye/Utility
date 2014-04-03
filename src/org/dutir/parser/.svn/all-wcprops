@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser
+END
+XMLDocParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/XMLDocParser.java
+END
+CNKITextParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/lablucene/!svn/ver/118/Untility/src/org/dutir/parser/CNKITextParser.java
+END
+MeSHHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/MeSHHandle.java
+END
+MeSHParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/MeSHParser.java
+END
+CNKIHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/lablucene/!svn/ver/118/Untility/src/org/dutir/parser/CNKIHandle.java
+END
+DomNodeHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/parser/DomNodeHandle.java
+END

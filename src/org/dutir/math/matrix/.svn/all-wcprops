@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix
+END
+MatrixBackedVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/MatrixBackedVector.java
+END
+DenseVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/DenseVector.java
+END
+SvdMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/SvdMatrix.java
+END
+HyperbolicTangentKernel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/HyperbolicTangentKernel.java
+END
+DenseMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/DenseMatrix.java
+END
+PolynomialKernel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/PolynomialKernel.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/package-info.java
+END
+MinkowskiDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/MinkowskiDistance.java
+END
+KernelFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/KernelFunction.java
+END
+AbstractVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/AbstractVector.java
+END
+TaxicabDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/TaxicabDistance.java
+END
+DotProductKernel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/DotProductKernel.java
+END
+AbstractMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/AbstractMatrix.java
+END
+ProximityMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/ProximityMatrix.java
+END
+CosineDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/CosineDistance.java
+END
+TriangularMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/TriangularMatrix.java
+END
+Vector.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/Vector.java
+END
+Matrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/Matrix.java
+END
+EuclideanDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/EuclideanDistance.java
+END
+SparseFloatVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/SparseFloatVector.java
+END
+Matrices.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/Matrices.java
+END
+GaussianRadialBasisKernel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/math/matrix/GaussianRadialBasisKernel.java
+END

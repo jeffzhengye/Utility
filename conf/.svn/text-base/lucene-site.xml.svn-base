@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="nutch-conf.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<luceneindex-conf>
+
+<property>
+  <name>Full.Parser.ClassName</name>
+  <value>org.dutir.parser.MedlineParser</value>
+  <description>default file parser class name which is used to Parser file into lucene Documents</description>
+</property>
+
+
+<property>
+  <name>analyzerClassName</name>
+  <value>org.apache.lucene.analysis.snowball.SnowballAnalyzer</value>
+  <description>default file parser class name which is used to Parser file into lucene Documents
+  org.apache.lucene.analysis.snowball.SnowballAnalyzer
+  org.apache.lucene.analysis.standard.StandardAnalyzer
+  dut.ir.clir.process.ChineseAnalyer
+  </description>
+</property>
+
+<!-- RMI  parameter. -->
+<property>
+  <name>DUTLAS_RMI</name>
+  <value>rmi://192.168.1.28:5118/DUTLAS</value>
+  <description>
+  DUTLAS_RMI
+  </description>
+</property>
+
+<property>
+  <name>DUTLAS_EN_POS</name>
+  <value>rmi://192.168.1.28:5117/POSTagger</value>
+  <description>
+  DUTLAS_EN_POS
+  </description>
+</property>
+
+<property>
+  <name>Index.Update.RMIPath</name>
+  <value>rmi://localhost:5120/IndexUpdater</value>
+  <description>
+  Index.Update.RMIPath
+  </description>
+</property>
+
+<!-- index  parameter. -->
+
+<!-- searching  parameter. -->
+<property>
+  <name>index.dir</name>
+  <value>Medline_Index</value>
+  <description>
+  where to store the index
+  </description>
+</property>
+
+<property>
+  <name>search_command_listenPort</name>
+  <value>2088</value>
+  <description>
+  where to store the index
+  </description>
+</property>
+
+<property>
+  <name>search.QueryFile</name>
+  <value>query2006_expand_lucene_5.txt</value>
+  <description>
+  where to store the index
+  </description>
+</property>
+
+
+<property>
+  <name>field_weight</name>
+  <value>passage:1</value>
+  <description>
+  multiField must seperated by # 
+  </description>
+</property>
+
+<property>
+  <name>result.count</name>
+  <value>1000</value>
+  <description>
+  </description>
+</property>
+
+<property>
+  <name>search.interative</name>
+  <value>false</value>
+  <description>
+  </description>
+</property>
+
+</luceneindex-conf>

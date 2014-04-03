@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/classify
+END
+PerceptronRankerHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/classify/PerceptronRankerHandle.java
+END
+NClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/lablucene/!svn/ver/121/Untility/src/org/dutir/classify/NClassifier.java
+END
+PerceptronRanker.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/classify/PerceptronRanker.java
+END
+VectorFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/lablucene/!svn/ver/43/Untility/src/org/dutir/classify/VectorFeatureExtractor.java
+END
+NaiveBayesClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/lablucene/!svn/ver/121/Untility/src/org/dutir/classify/NaiveBayesClassifier.java
+END
